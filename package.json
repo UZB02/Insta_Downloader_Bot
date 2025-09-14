@@ -1,0 +1,15 @@
+{
+  "name": "insta-telegram-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.18.0",
+    "insta-fetcher": "^2.0.0",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
